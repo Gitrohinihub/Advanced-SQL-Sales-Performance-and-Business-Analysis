@@ -8,7 +8,7 @@ Using these tables, multiple business-focused SQL tasks were performed, followed
 
 ---
 
-## 🎯 Business Performance Analysis Using SQL Case Study :
+## 🎯 Customer & Product Performance Analysis Using SQL Case Study :
 A company wants to understand its sales performance, customer behavior, and product contribution to make better business decisions. The objective is to analyze historical sales data and answer key business questions related to trends, growth, performance, contribution, and segmentation using SQL.
 
 
