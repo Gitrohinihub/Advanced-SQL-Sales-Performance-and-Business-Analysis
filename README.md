@@ -27,6 +27,9 @@ How does sales performance change over time?
 **Business Value:**  
 Helps understand seasonal patterns and long-term growth trends.
 
+| Sql Query | Result |
+|-----|--------|
+|  ![]() | ![]() |
 ---
 
 ### 🔹 Task 2: Cumulative Analysis (Running Total)
