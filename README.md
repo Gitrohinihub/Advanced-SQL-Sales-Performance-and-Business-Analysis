@@ -12,7 +12,7 @@ Using these tables, multiple business-focused SQL tasks were performed, followed
 A company wants to understand its sales performance, customer behavior, and product contribution to make better business decisions. The objective is to analyze historical sales data and answer key business questions related to trends, growth, performance, contribution, and segmentation using SQL.
 
 
-🔍 What Business Areas the Case Study Cover
+🔍 What Business Areas Does the Case Study Cover?
 Your case study solves problems in **five business areas**:
 
 ---
@@ -25,7 +25,7 @@ How does sales performance change over time?
 - Identified sales trends over time
 
 **Business Value:**  
-Helps understand seasonality and long-term growth patterns.
+Helps understand seasonal patterns and long-term growth trends.
 
 ---
 
@@ -44,9 +44,114 @@ Tracks business growth and progress toward annual targets.
 
 ### 🔹 Task 3: Performance Analysis (Year-over-Year)
 **Business Question:**  
-How does current year product performance compare with the previous year?
+How does the current year's product performance compare with the previous year's?
 
 **SQL Analysis:**
 - Compared **current year sales vs previous year sales**
 - Performance formula:
+
+**Business Value:**  
+Identifies improving, declining, and underperforming products.
+
+---
+
+### 🔹 Task 4: (Part-to-Whole)Contribution Analysis
+**Business Question:**  
+Which categories contribute the most to overall sales?
+
+**SQL Analysis:**
+- Calculated contribution percentage:
+- 
+**Business Value:**  
+Highlights high-impact product categories.
+
+---
+
+### 🔹 Task 5: Data Segmentation
+**Business Questions:**
+- How are customers distributed by age?
+- How are products distributed across cost ranges?
+
+**SQL Analysis:**
+- Segmented **customers by age groups**
+- Segmented **products into cost ranges** and counted products per segment
+
+**Business Value:**  
+Supports targeted marketing, pricing, and product strategy.
+
+---
+
+## 📑 Analytical Reports Created (SQL Views)
+After solving the business problems, two analytical reports were designed using SQL.
+
+---
+
+## 👤 Customer Report
+
+### Purpose
+Consolidates **key customer metrics and behaviours** to analyze customer value and engagement.
+
+### Highlights
+- Gathers essential customer attributes such as names, ages, and transaction details
+- Segments customers into **VIP, Regular, and New**
+- Segments customers by age group
+
+### Aggregated Customer Metrics
+- Total orders  
+- Total sales  
+- Total quantity purchased  
+- Total products purchased  
+- Customer lifespan (in months)
+
+### Key Customer KPIs
+- Recency (months since last order)
+- Average Order Value (AOV)
+- Average Monthly Spend
+
+---
+
+## 📦 Product Report
+
+### Purpose
+Consolidates **key product metrics and performance behaviour** to evaluate product contribution and lifecycle.
+
+### Highlights
+- Gathers product attributes such as product name, category, subcategory, and cost
+- Segments products into:
+  - High Performers
+  - Mid-Range Performers
+  - Low Performers
+
+### Aggregated Product Metrics
+- Total orders  
+- Total sales (revenue)  
+- Total quantity sold  
+- Total unique customers  
+- Product lifespan (in months)
+
+### Key Product KPIs
+- Recency (months since last sale)
+- Average Order Revenue (AOR)
+- Average Monthly Revenue
+
+---
+
+## 🛠️ Tools & Skills Used
+- SQL
+  - Aggregations (SUM, COUNT)
+  - Window functions
+  - Date-based analysis (Year, Month)
+  - CASE statements for segmentation
+- Business & Analytical Thinking
+
+---
+
+## 📈 Future Enhancements
+- Visualize Customer and Product reports using **Power BI**
+- Add interactive dashboards with slicers and KPIs
+- Extend analysis to include profit and margin metrics
+
+
+
+
 
