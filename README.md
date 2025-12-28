@@ -32,7 +32,7 @@ Helps understand seasonal patterns and long-term growth trends.
 |  ![]( https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business Analysis/blob/1ef4b3bfbe6efb8abd98cac49975f94e1af2bf53/SqL%20code%20SS/Task%201st.png) | ![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/1ef4b3bfbe6efb8abd98cac49975f94e1af2bf53/SqL%20code%20SS/task%201.png6
 ) |
 ---
-
+![]( https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business Analysis/blob/1ef4b3bfbe6efb8abd98cac49975f94e1af2bf53/SqL%20code%20SS/Task%201st.png)
 ### 🔹 Task 2: Cumulative Analysis (Running Total)
 **Business Question:**  
 How do sales accumulate over time?
