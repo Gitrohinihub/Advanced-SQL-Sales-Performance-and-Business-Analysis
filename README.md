@@ -153,7 +153,7 @@ Consolidates **key product metrics and performance behaviour** to evaluate produ
 ---
 
 ## 📈 Future Enhancements
-- Visualize Customer and Product reports using **Power BI**
+- To interact with a report :![Customer and Product reports]()
 - Add interactive dashboards with slicers and KPIs
 - Extend analysis to include profit and margin metrics
 
