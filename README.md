@@ -153,7 +153,7 @@ Consolidates **key product metrics and performance behaviour** to evaluate produ
 ---
 
 ## 📈 Future Enhancements
-- To interact with a report :![Advanced SQL Business Analysis Project](https://app.powerbi.com/links/cOIntQc3bN?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=2fb73737-a03f-403d-b78a-0b8aa0bbb4a2)
+- To interact with a report :[Advanced SQL Business Analysis Project](https://app.powerbi.com/links/cOIntQc3bN?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=2fb73737-a03f-403d-b78a-0b8aa0bbb4a2)
 - ![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/d49f95c4655a74d388e09a52e277991d3ec38e02/SqL%20code%20SS/customer%20and%20product%20report%20.png)
 
 
