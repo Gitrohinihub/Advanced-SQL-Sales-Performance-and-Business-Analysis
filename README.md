@@ -41,7 +41,8 @@ How do sales accumulate over time?
 **Business Value:**  
 Tracks business growth and progress toward annual targets.
 
----
+![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/984217c200f69d1eae248bedcbdd4be3022d81a2/SqL%20code%20SS/task%202nd.png
+)
 
 ### 🔹 Task 3: Performance Analysis (Year-over-Year)
 **Business Question:**  
@@ -54,7 +55,8 @@ How does the current year's product performance compare with the previous year's
 **Business Value:**  
 Identifies improving, declining, and underperforming products.
 
----
+![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/984217c200f69d1eae248bedcbdd4be3022d81a2/SqL%20code%20SS/Task%203rd.png
+)
 
 ### 🔹 Task 4: (Part-to-Whole)Contribution Analysis
 **Business Question:**  
@@ -66,7 +68,8 @@ Which categories contribute the most to overall sales?
 **Business Value:**  
 Highlights high-impact product categories.
 
----
+![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/984217c200f69d1eae248bedcbdd4be3022d81a2/SqL%20code%20SS/Task%204.png
+)
 
 ### 🔹 Task 5: Data Segmentation
 **Business Questions:**
@@ -80,8 +83,10 @@ Highlights high-impact product categories.
 **Business Value:**  
 Supports targeted marketing, pricing, and product strategy.
 
----
-
+![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/984217c200f69d1eae248bedcbdd4be3022d81a2/SqL%20code%20SS/Task%205.png
+)
+![](https://github.com/Gitrohinihub/Advanced-SQL-Sales-Performance-and-Business-Analysis/blob/984217c200f69d1eae248bedcbdd4be3022d81a2/SqL%20code%20SS/Task%206.png
+)
 ## 📑 Analytical Reports Created (SQL Views)
 After solving the business problems, two analytical reports were designed using SQL.
 
