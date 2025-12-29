@@ -1,4 +1,4 @@
-# 📊 Advanced SQL Business Analysis Project
+# 📊 Advanced-SQL-Sales-Performance-and-Business-Analysis
 
 ## 📌 Project Overview
 This project demonstrates how **SQL can be used to solve real business problems** by asking meaningful business questions and translating them into analytical SQL queries.
