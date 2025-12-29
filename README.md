@@ -1,4 +1,4 @@
-# 📊 Advanced SQL Sales Performance & Business Analysis
+# 📊 End-to-End Sales & Customer Analysis Using Advanced SQL
 
 ## 📌 Project Overview
 This project demonstrates how **SQL can be used to solve real business problems** by asking meaningful business questions and translating them into analytical SQL queries.
